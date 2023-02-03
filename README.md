@@ -13,34 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 # :boy: About me
 
 Hi there :wave:
 
-:computer: I'm a computer science student at the university in France.
+:computer: I'm a computer science student at the university in France
 
-:seedling: I’m currently learning how artificial intelligence works.
+:seedling: I’m currently learning how artificial intelligence works
+
+:book: Thanks for the Art of Computer Programming
 
 :pray: RIP Atom
+
+
 
 # :books: Skills
 
 <table>
-    <tr>
-        <th scope="row" align="left">Tech</th>
-        <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-            <br>Arduino
-        </td>
-        <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-            <br>Git
-        </td>
-        <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-            <br>Bash
-        </td>
-    </tr>
     <tr>
         <th scope="row" align="left">Software</th>
         <td width="64px" height="64px" align="center">
@@ -74,31 +65,43 @@ Hi there :wave:
             <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <br>JavaScript
         </td>
+        <td width="64px" height="64px" align="center">
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <br>TypeScript
+        </td>
     </tr>
     <tr>
         <th scope="row" align="left">Framework</th>
         <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
-            <br>Processing
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+            <br>Arduino
         </td>
         <td width="64px" height="64px" align="center">
             <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
             <br>Flask
         </td>
+        <td width="64px" height="64px" align="center">
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+            <br>Processing
+        </td>
     </tr>
     <tr>
-        <th scope="row" align="left">Library</th>
+        <th scope="row" align="left">Other</th>
         <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-            <br>Numpy
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+            <br>Bash
         </td>
         <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-            <br>Pandas
-        </td>          
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <br>Git
+        </td>
         <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-            <br>SQLite
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <br>MySQL
+        </td>
+        <td width="64px" height="64px" align="center">
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
+            <br>OCaml
         </td>
     </tr>
 </table>
@@ -114,3 +117,5 @@ Hi there :wave:
 # :open_file_folder: Projects
 
 :warning: WORK IN PROGRESS :warning:
+
+
