@@ -21,9 +21,9 @@ Hi there :wave:
 
 :computer: I'm a computer science student at the university in France
 
-:seedling: I’m currently learning how artificial intelligence works
+:seedling: I’m currently learning data engineering and artificial intelligence
 
-:book: Thanks for the Art of Computer Programming
+:book: The Art of Computer Programming, Donald Knuth
 
 :pray: RIP Atom
 
@@ -96,12 +96,16 @@ Hi there :wave:
             <br>Git
         </td>
         <td width="64px" height="64px" align="center">
-            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-            <br>MySQL
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+            <br>Julia
         </td>
         <td width="64px" height="64px" align="center">
             <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
             <br>OCaml
+        </td>
+        <td width="64px" height="64px" align="center">
+            <img width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <br>SQL
         </td>
     </tr>
 </table>
